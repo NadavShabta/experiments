@@ -12,6 +12,7 @@ from fairpyx import Instance, divide
 from fairpyx.algorithms.hffd import hffd             # original
 from improve.improved_hffd import hffd_fast                 # your sped-up version
 
+
 logging.getLogger("fairpyx").setLevel(logging.CRITICAL)   # silence info
 
 # --------------------------------------------------------------------------
