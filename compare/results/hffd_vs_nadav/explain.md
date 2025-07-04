@@ -1,6 +1,5 @@
 # Analysis of Algorithm Runtime Differences: `hffd` vs. `hffd_nadav`
 
-The two provided algorithms, `hffd` and `hffd_nadav`, despite aiming to implement the same chore allocation concept, exhibit vastly different runtimes due to critical distinctions in their implementation strategies. This leads to significantly different computational complexities.
 
 ### Differences in Implementation and Their Impact on Runtime:
 
